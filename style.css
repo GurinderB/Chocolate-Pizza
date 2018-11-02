@@ -29,3 +29,8 @@ header{
 }
 #icons{
 }
+
+#to{
+   display: inline;
+   vertical-align: left;
+}
